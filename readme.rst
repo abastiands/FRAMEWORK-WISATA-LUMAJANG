@@ -1,3 +1,16 @@
+TUGAS UAS FRAMEWORK
+
+Judul: IMPLEMENTASI FRAMEWORK PADA SISTEM INFORMASI GEOGRAFIS PERSEBARAN OBJEK WISATA ALAM  DI KABUPATEN LUMAJANG BERBASIS WEB
+
+Anggota Kelompok:
+
+1.	Azzukhrufi Jannatul A. 	 	 (18051204020/TI2018A)
+
+2.	Abastian Dwi Saputra		   (18051204027/TI2018A)
+
+3.	Nabilah Risa Savitri		   (18051204030/TI2018A)
+
+
 ###################
 What is CodeIgniter
 ###################
