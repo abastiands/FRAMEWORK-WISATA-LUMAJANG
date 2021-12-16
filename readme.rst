@@ -10,7 +10,7 @@ Anggota Kelompok:
 
 3.	Nabilah Risa Savitri		   (18051204030/TI2018A)
 
-Untuk file laporan bernama: LAPORAN PEMROGRAMAN FRAMEWORK_020-027-030.docx
+
 
 ###################
 What is CodeIgniter
